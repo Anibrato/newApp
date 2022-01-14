@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
     EditText edname,edloc;
     Button btn;
     TextView tv;
+    
+    //added from Git
 
     String sname,sloc;
 
