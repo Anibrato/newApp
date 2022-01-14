@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916402032530",
+    "project_id": "firestoreani",
+    "storage_bucket": "firestoreani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916402032530:android:02acfbbc4a526b4696fb4b",
+        "android_client_info": {
+          "package_name": "com.example.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916402032530-8nvcd7dsn876dv1fq3immklhscjiv7rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaCdvKX1hfHrfIcDjjw6jZE7PDn82QKgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916402032530-8nvcd7dsn876dv1fq3immklhscjiv7rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
